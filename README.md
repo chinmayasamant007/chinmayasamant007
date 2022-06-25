@@ -10,5 +10,5 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 #### What is CoderOne?
 CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 #### Github Stats
-![chinmaya.ip569's github stats](https://github-readme-stats.vercel.app/api?username=chinmaya007&count_private=true&theme=tokyonight&hide=contribs,prs)
+![chinmaya.ip569's github stats](https://github-readme-stats.vercel.app/api?username=chinmayasamant007&count_private=true&theme=tokyonight&hide=contribs,prs)
 </details>
